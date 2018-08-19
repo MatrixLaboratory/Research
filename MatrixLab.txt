@@ -1,3 +1,6 @@
 MatrixLaboratory
 MatrixLaboratory is a decentralized research team. We are scientist around the world and we aim to bring our research to more innovative applications in Blockchain & DApp areas.
-If you find your area not include in the directory, feel free to create a new one. We will  get you connected with blockchain developers, industry projects & collaborators. Ling
+If you find your area not include in the directory, feel free to create a new one. We will  get you connected with blockchain developers, industry projects & collaborators. 
+Add new pull request on Github when you are ready, hope to see you join us XD.
+
+Ling
