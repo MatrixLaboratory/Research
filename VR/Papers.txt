@@ -1,0 +1,20 @@
+Tong Jin:
+1.	Hongqiang Zhu, Jing Tong, Luosheng Zhang and Xiao Zou. Research and Development of Virtual Try-on System Based on Mobile Platform. International Conference on Virtual Reality and Visualization. 2017
+2.	邹晓, 陈正鸣, 朱红强, 童晶，基于移动平台的三维虚拟试发型实现及应用，图学学报，2017。
+3.	张洛声，童晶，实时交互的浮雕纹理模型构建方法，计算机应用，2017。
+4.	姚鹏飞，陈正鸣，童晶，钱丽娜，基于Unity3D的绞吸式挖泥船虚拟仿真系统，《系统仿真学报》, 2016，(9)：2069-2075。
+5.	童晶，张洛声，侯松林，樊宇航，李天群，低成本个性化巧克力三维打印平台，计算机辅助设计与图形学学报，2015，（06）：984-991。
+6.	Wang, Weiming，Chao, Haiyuan，Tong, Jing，Yang, Zhouwang，Tong, Xin，Li, Hang，Liu, Xiuping，Liu, Ligang，Saliency-Preserving Slicing Optimization for Effective 3D Printing，Computer Graphics Forum，2015，34（6）：148-160。
+7.	巢海远，刘景，童晶，张洛声，一种处理带有边界的非封闭STL模型的切片算法，计算机集成制造系统，2015，（10）：2587-2595。
+8.	童晶、陈正鸣、刘景、徐昕 ，低成本个性化制造原型系统关键技术 ，计算机与现代化, 02期, pp 98-101, 2014/2
+9.	刘宏伟，翁益平，张云坤，徐南伟，童晶，王彩梅，计算机辅助设计及电子束熔融快速成型金属3D打印技术制备个性化股骨假体，中国修复重建外科杂志，2015，（09）：1088-1091。
+10.	刘宏伟，徐南伟，张云坤，顾勇，孙俊英，童晶，Crowe Ⅳ型成人发育性髋关节发育不良股骨近段形态研究及其临床意义，中国修复重建外科杂志，2015，（08）：931-935。
+11.	Ming Zeng、Liujuan Cao、Huailin Dong、Kunhui Lin、Meihong Wang、Jing Tong ，Estimation of human body shape and cloth field in front of a kinect ，Neurocomputing, 2014/11/11 
+12.	Tong, Jing，Liu, Ligang，Zhou, Jin，Pan, Zhigeng，Mona Lisa alive - Create self-moving objects using hollow-face illusion，Visual Computer，2013，29，（6-8）：535-544。
+13.	晏浩，张明敏，童晶，潘志庚，基于Kinect的实时稳定的三维多手指跟踪算法，计算机辅助设计与图形学学报，2013，（12）：1801-1809。
+14.	周瑾，潘建江，童晶，刘利刚，潘志庚，使用Kinect快速重建三维人体，计算机辅助设计与图形学学报，2013，（06）：873-879。
+15.	Zhang, Qing，Tong, Jing，Wang, Huamin，Pan, Zhigeng，Yang, Ruigang，Simulation guided hair dynamics modeling from video，Computer Graphics Forum，2012，31（7）：2003-2010。
+16.	Tong, Jing，Zhou, Jin，Liu, Ligang，Pan, Zhigeng，Yan, Hao，Scanning 3D Full Human Bodies Using Kinects，IEEE Transactions on Visualization and Computer Graphics，2012，18（4）：643-650。
+17.	童晶，向学勤，田洪波，潘志庚，张明敏，利用飞行时间三维相机的非刚体形状三维重建，计算机辅助设计与图形学学报，2011，（03）：377-384。
+18.	Tong, Jing，Zhang, Mingmin，Xiang, Xueqin，Shen, Huaqing，Yan, Hao，Chen, Zhengming，3D body scanning with hairstyle using one time-of-flight camera，Computer Animation and Virtual Worlds，2011，22（2-3）：203-211。
+19.	童晶，陈正鸣，三角网格表面近似测地线的计算，计算机辅助设计与图形学学报，2008，（02）：180-185。
